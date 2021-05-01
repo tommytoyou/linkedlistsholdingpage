@@ -21,6 +21,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    text-shadow: #f4f4f4;
     padding: 0 20px;
 }
 #linkedlists h1 {
