@@ -22,21 +22,16 @@ body{
     align-items: center;
     text-align: center;
     color: rgba(0, 179, 255, 0.79);
-    text-shadow: goldenrod;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
     padding: 0 20px;
 }
 #linkedlists h1 {
     font-size: 50px;
     line-height: 1.2;
-    color: rgba(0, 179, 255, 0.79);
-    text-shadow: goldenrod;
-
 }
 
 #linkedlists p{
     font-size: 20px;
-    color: rgba(0, 179, 255, 0.79);
-    text-shadow: goldenrod;
 }
 #linkedlists .button{
     font-size:18px;
