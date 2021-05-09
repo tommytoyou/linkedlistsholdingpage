@@ -22,7 +22,7 @@ body{
     align-items: center;
     text-align: center;
     color: whitesmoke;
-    text-shadow: 0 0 1px goldenrod, 0 0 1px goldenrod, 0 0 1px goldenrod, 0 0 1px goldenrod;
+    text-shadow: 0 0 2px goldenrod, 0 0 2px goldenrod, 0 0 2px goldenrod, 0 0 2px goldenrod;
     padding: 0 20px;
 }
 #linkedlists h1 {
