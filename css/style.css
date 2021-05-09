@@ -21,7 +21,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: black;
+    color: blue;
     padding: 0 20px;
 }
 #linkedlists h1 {
@@ -56,6 +56,9 @@ body{
     color:#fff;
     text-align:center;
   }
+  #section-a h3 {
+    justify-content: center;
+  }
 
 
 #section-b{
@@ -63,10 +66,18 @@ body{
     background:#f4f4f4;
     text-align:center;
   }
+  #section-b h3 {
+    justify-content: center;
+  }
+
   
   #section-c{
     display:flex;
   }
+  #section-c h3 {
+    justify-content: center;
+  }
+
   
   #section-c div{
     padding:20px;
