@@ -56,7 +56,7 @@ body{
     color:#fff;
     text-align:center;
   }
-  #section-a h3 {
+  #box-3 h3 {
     justify-content: center;
   }
 
@@ -66,16 +66,10 @@ body{
     background:#f4f4f4;
     text-align:center;
   }
-  #section-b h3 {
-    justify-content: center;
-  }
 
   
   #section-c{
     display:flex;
-  }
-  #section-c h3 {
-    justify-content: flex-start;
   }
 
   
