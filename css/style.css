@@ -56,10 +56,6 @@ body{
     color:#fff;
     text-align:center;
   }
-  #box-3 h3 {
-    justify-content: center;
-  }
-
 
 #section-b{
     padding:20px;
@@ -75,6 +71,10 @@ body{
   
   #section-c div{
     padding:20px;
+  }
+
+  #section-c .box-3 h3 {
+    justify-content: center;
   }
   
   #section-c .box-1, #section-c .box-3{
