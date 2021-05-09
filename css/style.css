@@ -21,6 +21,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    text-shadow: goldenrod;
     color: rgba(0, 179, 255, 0.79);
     padding: 0 20px;
 }
