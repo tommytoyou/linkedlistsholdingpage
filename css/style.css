@@ -75,7 +75,7 @@ body{
     display:flex;
   }
   #section-c h3 {
-    justify-content: center;
+    justify-content: flex-start;
   }
 
   
